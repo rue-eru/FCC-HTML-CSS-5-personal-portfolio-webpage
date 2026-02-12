@@ -7,10 +7,6 @@ My personal portfolio website — the final project for FreeCodeCamp's Responsiv
 
 The project only consists of **HTML** + **CSS** and was made as a part of FreeCodeCamp's Responsive Web Design course.
 
->[My official FCC's Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/responsive-web-design)
-
-![Certificate](./public/responsive-web-design.png)
-
 ---
 ## 📋 Project Requirements
 
@@ -54,8 +50,13 @@ Also I changed the original project links to the new github repos! The images we
 
 Looking at it now, I can see the rookie decisions — but that's exactly why I wanted to preserve it. This is where I started.
 
-![PC Page Gif](./public/lg-demo.gif)
-![Mobile Page Gif](./public/sm-demo.gif)
+| **Personal Portfolio Webpage Preview on PC** |
+|---|
+| ![PC Page Gif](./public/lg-demo.gif) |
+
+| **Personal Portfolio Webpage Preview on Mobile** |
+|---|
+| ![Mobile Page Gif](./public/sm-demo.gif) |
 
 <div align="right"><i>submitted to FreeCodeCamp on Oct 30, 2024</i></div>
 
@@ -64,6 +65,9 @@ Looking at it now, I can see the rookie decisions — but that's exactly why I w
 ## 🔗 Live Demo
 
 [![Live Demo](https://img.shields.io/badge/demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rue-eru.github.io/FCC-HTML-CSS-5-personal-portfolio-webpage/)
+
 ---
 
-*Part of my [FreeCodeCamp journey](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/responsive-web-design)*
+| My official [FreeCodeCamp Responsive Web Design Certificate](https://www.freecodecamp.org/certification/fcc058fd235-9bca-44b6-b085-10ee4a9bdda6/responsive-web-design) |
+|---|
+| ![Certificate](./public/responsive-web-design.png) |
